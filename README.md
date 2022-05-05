@@ -73,11 +73,11 @@ ___
 
 ### [`MY SELF`](https://instagram.com/manuriosxnl_)
 ```
-"Name": "Aiman",
+"Name": "Trần Văn Nhất",
 "Status": "",
-"Address": "Malaysia",
-"Age": "15 Years Old",
-"Birthday": "June - 4, 2007"
+"Address": "Viet Nam",
+"Age": "19 Years Old",
+"Birthday": "24 - 4, 2003"
    
 "Big Thanks To"
 
